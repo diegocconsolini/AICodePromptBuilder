@@ -82,4 +82,6 @@ The tool includes the full AI-Assisted Development Agreements v1.1, providing:
 
 ## License
 
+This tool is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
+
 This tool is part of the PandorAICoder project and follows the same licensing terms.
