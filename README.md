@@ -2,6 +2,12 @@
 
 A professional, standalone HTML tool for generating AI-assisted development prompts with built-in templates and agreement integration.
 
+## 📚 Complete Documentation
+
+- **[TUTORIAL.md](TUTORIAL.md)** - Comprehensive step-by-step guide with interface explanations and best practices
+- **[AI_FOUNDATIONS.md](AI_FOUNDATIONS.md)** - Theoretical foundations of AI personalization with academic sources and research
+- **[EXAMPLES.md](EXAMPLES.md)** - Practical examples from beginner to advanced scenarios with real-world use cases
+
 ## Features
 
 ### 🚀 Core Functionality
