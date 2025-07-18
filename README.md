@@ -7,6 +7,7 @@ A professional, standalone HTML tool for generating AI-assisted development prom
 - **[TUTORIAL.md](TUTORIAL.md)** - Comprehensive step-by-step guide with interface explanations and best practices
 - **[AI_FOUNDATIONS.md](AI_FOUNDATIONS.md)** - Theoretical foundations of AI personalization with academic sources and research
 - **[EXAMPLES.md](EXAMPLES.md)** - Practical examples from beginner to advanced scenarios with real-world use cases
+- **[AI_ASSISTED_DEVELOPMENT_AGREEMENTS.md](AI_ASSISTED_DEVELOPMENT_AGREEMENTS.md)** - Complete AI-Assisted Development Agreements v1.1 protocol document
 
 ## Features
 
