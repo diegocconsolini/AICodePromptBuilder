@@ -23,7 +23,7 @@ The AI Code Prompt Builder is a standalone HTML file that:
 - Saves user preferences in browser localStorage
 - Resizes textarea vertically with persistence
 
-**EFFECTIVENESS DISCLAIMER**: Whether this improves your AI interactions requires your testing and validation.
+**EFFECTIVENESS DISCLAIMER**: Whether the AI Code Prompt Builder improves your AI interactions requires your testing and validation.
 
 ### Browser Requirements (Verifiable)
 
@@ -287,7 +287,7 @@ Customized: "Add user profile editing to the dashboard component in /src/compone
 **EFFECTIVENESS CLAIMS REQUIRING USER VALIDATION**:
 - Whether templates improve prompt quality
 - If structured prompts yield better AI responses
-- Whether the tool reduces your cognitive load
+- Whether the AI Code Prompt Builder reduces your cognitive load
 - If saved templates improve your workflow
 
 ### Limitation Disclosures
@@ -295,16 +295,16 @@ Customized: "Add user profile editing to the dashboard component in /src/compone
 **ACKNOWLEDGED UNCERTAINTIES**:
 - Individual user experience may vary
 - AI assistant responses depend on many factors beyond prompt structure
-- Template effectiveness varies by use case and domain
+- AI Code Prompt Builder template effectiveness varies by use case and domain
 - Long-term workflow impact requires extended testing
 
 ### Verification Recommendations
 
 **USER TESTING SUGGESTIONS**:
-1. **A/B Testing**: Compare AI responses with/without tool
+1. **A/B Testing**: Compare AI responses with/without AI Code Prompt Builder
 2. **Time Tracking**: Measure prompt creation time before/after adoption
 3. **Quality Assessment**: Evaluate AI output quality improvements
-4. **Workflow Integration**: Test fit with existing development processes
+4. **Workflow Integration**: Test AI Code Prompt Builder fit with existing development processes
 
 ---
 
@@ -340,4 +340,4 @@ prompt-builder.html (single file):
 
 ---
 
-*This tutorial provides factual, verifiable information about tool functionality while acknowledging that effectiveness claims require user validation, in accordance with AI-Assisted Development Agreements v1.1.*
+*This tutorial provides factual, verifiable information about AI Code Prompt Builder functionality while acknowledging that effectiveness claims require user validation, in accordance with AI-Assisted Development Agreements v1.1.*

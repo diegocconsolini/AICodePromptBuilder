@@ -24,7 +24,7 @@ Mode: NORMAL
 Description: Fix bug where cart total shows incorrect amount
 ```
 
-**TOOL OUTPUT** (exactly generated):
+**AI CODE PROMPT BUILDER OUTPUT** (exactly generated):
 ```
 NORMAL: Fix bug where cart total shows incorrect amount
 
@@ -51,7 +51,7 @@ Mode: QUICK
 Description: Fix typo in header
 ```
 
-**TOOL OUTPUT** (verifiable):
+**AI CODE PROMPT BUILDER OUTPUT** (verifiable):
 ```
 QUICK: Fix typo in header
 
@@ -71,7 +71,7 @@ Mode: SECURE
 Description: Implement OAuth2 authentication
 ```
 
-**TOOL OUTPUT** (exactly as generated):
+**AI CODE PROMPT BUILDER OUTPUT** (exactly as generated):
 ```
 SECURE: Implement OAuth2 authentication
 
@@ -330,7 +330,7 @@ localStorage.getItem('promptBuilderData')
 ### Example of Appropriate Claim
 
 **COMPLIANT STATEMENT**:
-"The tool generates structured text output when form fields are completed and the Generate button is clicked."
+"The AI Code Prompt Builder generates structured text output when form fields are completed and the Generate button is clicked."
 
 **VERIFICATION**: Observable by testing the tool directly.
 
@@ -348,7 +348,7 @@ localStorage.getItem('promptBuilderData')
 ### Example of Proper Limitation Disclosure
 
 **APPROPRIATE DISCLOSURE**:
-"Tool functionality verified through testing in Chrome 120+. Performance in other browsers or with different AI assistants requires user validation."
+"AI Code Prompt Builder functionality verified through testing in Chrome 120+. Performance in other browsers or with different AI assistants requires user validation."
 
 **AGREEMENT ADHERENCE**: Acknowledges limitations and requests user verification of effectiveness claims.
 
@@ -378,8 +378,8 @@ localStorage.getItem('promptBuilderData')
 - Successful task completion rate (improvement expected)
 - Consistency across team members (standardization goal)
 
-**MEASUREMENT DISCLAIMER**: Tool provides no built-in analytics - tracking requires user implementation.
+**MEASUREMENT DISCLAIMER**: AI Code Prompt Builder provides no built-in analytics - tracking requires user implementation.
 
 ---
 
-*These examples demonstrate observable tool behavior while acknowledging that effectiveness and improvement claims require user validation through direct testing, in compliance with AI-Assisted Development Agreements v1.1.*
+*These examples demonstrate observable AI Code Prompt Builder behavior while acknowledging that effectiveness and improvement claims require user validation through direct testing, in compliance with AI-Assisted Development Agreements v1.1.*
